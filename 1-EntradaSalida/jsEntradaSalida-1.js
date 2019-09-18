@@ -1,6 +1,6 @@
 //Debemos lograr mostrar un mensaje al presionar el botón  'mostrar'.
 function mostrar()
 {
-	alert("Ok");
+	Esto es una muestra de git por consola
 }
 
