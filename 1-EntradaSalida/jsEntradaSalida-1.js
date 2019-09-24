@@ -1,6 +1,7 @@
 //Debemos lograr mostrar un mensaje al presionar el botón  'mostrar'.
 function mostrar()
 {
-	Esto es una muestra de git por consola
+	alert("esto funciona de maravilla"); 
 }
 
+// las comillas simples ('') cumplen la misma función que las dobles ("") 
